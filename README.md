@@ -12,6 +12,5 @@ About, Portfolio, Contacts
 
 •           site is published at:
 
-
-# https://yasha6081.github.io/aboutme/
+https://yasha6081.github.io/aboutme/
 
